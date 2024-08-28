@@ -15,8 +15,17 @@ This foundational step was critical to ensure the data’s integrity and reliabi
 Once the data was cleaned, I uploaded three Excel files into SSMS, creating structured tables that were easy to work with:
 - Table Setup: Designed the data tables with primary keys and relationships to ensure seamless joins and accurate data retrieval.
 - Data Extraction Using SQL: Utilised `SELECT`, `FROM`, and `JOIN` queries to merge data from the three tables. This allowed me to create a more streamlined and focused dataset by selecting only the most relevant columns for analysis.
+  ![Screenshot 2024-08-21 131128](https://github.com/user-attachments/assets/2ee7a193-89e3-41c0-8107-3f620adf2820)
 - View Creation for Simplified Analysis: Built a SQL view that contained the refined dataset, aggregating key data points into a single source for analysis in Power BI. This step simplified the connection process and ensured consistent data availability.
-- Data Quality Testing: To verify the integrity of the data, I implemented four key data quality checks. 
+  ![Screenshot 2024-08-21 131713](https://github.com/user-attachments/assets/0ae4efe7-aa3f-4436-a905-e9f00aa25b17)
+- Data Quality Testing: To verify the integrity of the data, I implemented four key data quality checks.
+  ![Screenshot 2024-08-21 152245](https://github.com/user-attachments/assets/684e7d79-2ac7-451b-99b1-63b12997656f)
+  
+  ![Screenshot 2024-08-21 144732](https://github.com/user-attachments/assets/2282145e-cf4b-4a5b-97bd-7c6924b091ca)
+  ![Screenshot 2024-08-21 145156](https://github.com/user-attachments/assets/3e06c053-6bbc-4d57-972f-eb32a633346b)
+  
+  ![Screenshot 2024-08-21 150221](https://github.com/user-attachments/assets/c2db9218-603a-449d-9b33-db8126b6b126)
+  ![Screenshot 2024-08-21 152120](https://github.com/user-attachments/assets/a15978e1-8f24-4dc9-b0b5-ee510bad57c9)
 
 #### Power BI: Data Visualisation and Business Insights
 
