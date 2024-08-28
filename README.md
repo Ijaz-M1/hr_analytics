@@ -1,5 +1,7 @@
 # hr_analytics
+ ![Screenshot 2024-08-28 113547](https://github.com/user-attachments/assets/1e65b15b-c723-4a9e-af05-b58e48a8d0b0)
  
+ ![Screenshot 2024-08-28 113611](https://github.com/user-attachments/assets/bd4bad75-e2d0-47af-b71c-72e71236babc)
 ### Project workflow
 #### Excel: Data Cleaning and Preparation
 
@@ -17,8 +19,10 @@ Once the data was cleaned, I uploaded three Excel files into SSMS, creating stru
 - Data Extraction Using SQL: Utilised `SELECT`, `FROM`, and `JOIN` queries to merge data from the three tables. This allowed me to create a more streamlined and focused dataset by selecting only the most relevant columns for analysis.
   ![Screenshot 2024-08-21 131128](https://github.com/user-attachments/assets/2ee7a193-89e3-41c0-8107-3f620adf2820)
 - View Creation for Simplified Analysis: Built a SQL view that contained the refined dataset, aggregating key data points into a single source for analysis in Power BI. This step simplified the connection process and ensured consistent data availability.
+  
   ![Screenshot 2024-08-21 131713](https://github.com/user-attachments/assets/0ae4efe7-aa3f-4436-a905-e9f00aa25b17)
 - Data Quality Testing: To verify the integrity of the data, I implemented four key data quality checks.
+  
   ![Screenshot 2024-08-21 152245](https://github.com/user-attachments/assets/684e7d79-2ac7-451b-99b1-63b12997656f)
   
   ![Screenshot 2024-08-21 144732](https://github.com/user-attachments/assets/2282145e-cf4b-4a5b-97bd-7c6924b091ca)
